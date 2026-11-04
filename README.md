@@ -48,7 +48,8 @@ The underlying data model processes row-level retail transactions with the follo
 | Region            |      Regional classification         |   East                    |
 | Customer_ID       |      Customer unique identifier      |   CUST-1161               |
 | Segment           |      Customer membership tier        |   Regular, Premier, Value |
-| Product_Category  |      High-level category             |   Electronics             |   | Product_Name      |      Specific item title             |   Wireless Buds           |
+| Product_Category  |      High-level category             |   Electronics             |   
+| Product_Name      |      Specific item title             |   Wireless Buds           |
 | Quantity_Sold     |      Units purchased in order        |    1                      |
 | Unit_Cost         |      Wholesale cost per item         |    50                     |
 | Unit_Price        |      Retail selling price            |    99                     |
@@ -62,4 +63,6 @@ The underlying data model processes row-level retail transactions with the follo
   
 # ⚙️ Built With
 #### -Microsoft Excel:
-Pivot Tables, Pivot Charts, Slicers, Custom KPI Cards, Data Modeling, Dynamic Formulas (SUM, CALCULATED FIELDS).  
+Pivot Tables, Pivot Charts, Slicers, Custom KPI Cards, Data Modeling, Dynamic Formulas (SUM, CALCULATED FIELDS).
+#### -Power BI:
+Data Source & Requirements, Transform Data, DAX Measures & KPI Calculation, Visual Layout & Slicers, Formatting & Theme Styling  and Publish & Automate. 
