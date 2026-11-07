@@ -62,7 +62,13 @@ The underlying data model processes row-level retail transactions with the follo
 | Profit %          |      Calculated margin percentage    |   49.49%                  |
   
 # ⚙️ Built With
-#### -Microsoft Excel:
+
+### -Microsoft Excel:
 Pivot Tables, Pivot Charts, Slicers, Custom KPI Cards, Data Modeling, Dynamic Formulas (SUM, CALCULATED FIELDS).
-#### -Power BI:
-Data Source & Requirements, Transform Data, DAX Measures & KPI Calculation, Visual Layout & Slicers, Formatting & Theme Styling  and Publish & Automate. 
+
+### -Power BI:
+Data Source & Requirements, Transform Data, DAX Measures & KPI Calculation, Visual Layout & Slicers, Formatting & Theme Styling  and Publish & Automate.
+
+### -Python:
+Python Libraries Used:- Pandas, MatplotLib, & Seaborn
+-Data cleaning, Data Visualization by chart, Formatting & Styling
