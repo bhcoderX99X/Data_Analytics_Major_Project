@@ -63,12 +63,12 @@ The underlying data model processes row-level retail transactions with the follo
   
 # ⚙️ Built With
 
-### -Microsoft Excel:
-Pivot Tables, Pivot Charts, Slicers, Custom KPI Cards, Data Modeling, Dynamic Formulas (SUM, CALCULATED FIELDS).
+### Microsoft Excel:
+- Pivot Tables, Pivot Charts, Slicers, Custom KPI Cards, Data Modeling, Dynamic Formulas (SUM, CALCULATED FIELDS).
 
-### -Power BI:
-Data Source & Requirements, Transform Data, DAX Measures & KPI Calculation, Visual Layout & Slicers, Formatting & Theme Styling  and Publish & Automate.
+### Power BI:
+- Data Source & Requirements, Transform Data, DAX Measures & KPI Calculation, Visual Layout & Slicers, Formatting & Theme Styling  and Publish & Automate.
 
-### -Python:
-Python Libraries Used:- Pandas, MatplotLib, & Seaborn
--Data cleaning, Data Visualization by chart, Formatting & Styling
+### Python 3:
+- Python Libraries Used :- Pandas, MatplotLib, & Seaborn <br>
+- Data cleaning, Data Visualization by chart, Formatting & Styling
